@@ -245,7 +245,7 @@ while(contador < 3){
     console.log("olá " + contador)
     contador++
 }
-*/
+
 // do while
 let i = 3
 
@@ -253,3 +253,4 @@ do {
     console.log("olá ")
     i++
 } while (i < 3)
+*/
